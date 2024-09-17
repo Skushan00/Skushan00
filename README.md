@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skushan00
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding for ever!
+- 🌱 I’m currently learning coding
 - 📫 How to reach me ?
 
 <!---
