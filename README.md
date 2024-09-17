@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Skushan00
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning coding for ever!
 - 📫 How to reach me ?
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Skushan00/Skushan00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
